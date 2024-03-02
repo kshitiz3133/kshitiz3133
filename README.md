@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi👋, I am Kshitiz Agarwal.
+
+![Untitled design (1)](https://github.com/kshitiz3133/kshitiz3133/assets/126540363/a8f8cf8c-0ed3-472c-ae8b-06f29569ad71)
+
+
 
 <!--
 **kshitiz3133/kshitiz3133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
