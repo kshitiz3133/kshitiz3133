@@ -8,7 +8,7 @@ I wish to upscale my skills and improve myself whenever it is needed. I design a
 <img src="https://github.com/kshitiz3133/kshitiz3133/assets/126540363/c3f6cfff-8e7c-4ecf-b0d2-aa456d94929d" width="300" height="300" align="center"/>
 
 ## 🌐 Socials:
-kshitiz3133 -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitiz3133) 
+kshitiz3133: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitiz3133) 
 
 ## 💻 Tech Stack:
 Languages: <br/> 
